@@ -1,0 +1,41 @@
+{
+    "Systems": {
+        "Logger": {
+            "values": {
+                "ShowObjectAsString": false,
+                "ShowObjectName": true,
+                "ShowPriorityNames": true,
+                "ShowTimeStamp": true,
+                "TypesToLog": [
+                    "ALL:WARNING,FATAL,ERROR,INFO"
+                ],
+                "WriteToDeviceConsole": false,
+                "WriteToUnityConsole": true
+            },
+            "version": "1.0.0"
+        },
+        "CPRemix": {
+            "environments": {
+                "PRODUCTION": {
+                    "CPWebsiteAPIServicehost": "https://www.clubpenguinisland.com",
+                    "CDN": "https://1263cf72.content.disney.io",
+                    "CPipeMappingFilename": "__mapping_cpremix_prod.json",
+                    "GcsServiceAccountName": null,
+                    "GcsServiceAccountFile": null
+                }
+            }
+        },
+        "SwrveConfig": {
+            "PROD": {
+                "windows": {
+                    "AppId": 30387,
+                    "APIKey": "0rude9Cnn7zW2Y2r14r"
+                },
+                "osx": {
+                    "AppId": 30386,
+                    "APIKey": "0ZIVJQTrXKrYS05vjVo"
+                }
+            }
+        }
+    }
+}

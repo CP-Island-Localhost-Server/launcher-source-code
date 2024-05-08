@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0b990a8e56ccc5b48ab305c18dec3814
+timeCreated: 1715155665
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  name:
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Loyola!
+  fontNames:
+  - Loyola!
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

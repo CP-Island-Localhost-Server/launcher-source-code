@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1603319909, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Name: SettingsGraphics
+  m_EditorClassIdentifier:
+  NodePrefab: {fileID: 1049015602431150, guid: 7a1c289f9a7817e46bdf1202d6fe3ed2, type: 2}
+  ChildNodes: []

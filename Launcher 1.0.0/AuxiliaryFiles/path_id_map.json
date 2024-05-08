@@ -1,0 +1,3011 @@
+{
+  "Files": [
+    {
+      "Name": "resources.assets",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "Checkmark",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2,
+          "Name": "UISprite",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "Background",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "UIMask",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "Prompt_BG 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "SharedAssets_ButtonCrossOn",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "Settings_Accessibility_Pattern",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "Homescreen_CPILogo_pt_BR",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "SharedAssets_Border 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "Settings_MoreInfo_Pattern",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "Settings_Square_Mask",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "SharedAssets_ScrollBarAssetVertical_Round",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "Homescreen_CPILogo_es_LA",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "Homescreen_CPILogo_fr_FR",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "SharedAssets_Tintable_Header",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "Settings_TextField_Focus1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "en_US.json",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 18,
+          "Name": "PlayMakerAssemblies",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 19,
+          "Name": "fr_FR.json",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 20,
+          "Name": "none.json",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 21,
+          "Name": "TokenTypes",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 22,
+          "Name": "pt_BR.json",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 23,
+          "Name": "pub",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 24,
+          "Name": "es_LA.json",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 25,
+          "Name": "ApplicationConfig",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 26,
+          "Name": "embedded_content_manifest",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 27,
+          "Name": "ContentVersion",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 32,
+          "Name": "LocalizationConfig",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "globalgamemanagers.assets",
+      "Assets": [
+        {
+          "PathID": 3,
+          "Name": "PlayMakerParticleCollision",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 4,
+          "Name": "PooledComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 5,
+          "Name": "FacebookSettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6,
+          "Name": "LifetimeComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7,
+          "Name": "GridLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8,
+          "Name": "GridLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 9,
+          "Name": "FileStringDevice_LoadAsync_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 10,
+          "Name": "PrefabCacheTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11,
+          "Name": "SettingsAudioController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12,
+          "Name": "InitCoreServicesAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13,
+          "Name": "Scrollbar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 14,
+          "Name": "Scrollbar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 15,
+          "Name": "DataEntityHandleEqualityTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 16,
+          "Name": "ResourceDevice_LoadImmediate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 17,
+          "Name": "FacebookGameObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 18,
+          "Name": "InputFieldEx",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19,
+          "Name": "BundleManager_UnmountWhileLoading_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 20,
+          "Name": "ClientInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 21,
+          "Name": "StringComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 22,
+          "Name": "TweakerConsoleTestbed",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 23,
+          "Name": "ResourceLoader_Load_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 24,
+          "Name": "PlayMakerCollisionStay2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 25,
+          "Name": "KochavaManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 26,
+          "Name": "InstallAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 27,
+          "Name": "PlayMakerTriggerExit2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 28,
+          "Name": "NativeAndroidAccessibility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 29,
+          "Name": "EditorFacebookLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 30,
+          "Name": "ArcadeFacebookLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 31,
+          "Name": "FloatComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 32,
+          "Name": "EventTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 33,
+          "Name": "EventTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 34,
+          "Name": "FileBytesDevice_LoadAsync_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 35,
+          "Name": "LogGameActionButtonInteracted",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 36,
+          "Name": "BaseInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 37,
+          "Name": "BaseInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 38,
+          "Name": "TestCoroutineRunner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 39,
+          "Name": "EnvironmentManagerAndroid",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 40,
+          "Name": "LauncherPrompt",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 41,
+          "Name": "StaticBatchCombiner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 42,
+          "Name": "InitManagerComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 43,
+          "Name": "PlayMakerMouseEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 44,
+          "Name": "AppWindowListener",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 45,
+          "Name": "Content_LoadFromIndex_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 46,
+          "Name": "NetworkTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 47,
+          "Name": "NetworkTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 48,
+          "Name": "DMOAnalyticsAutoLog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 49,
+          "Name": "ReplaceHighestPriority",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 50,
+          "Name": "PlaymodeTestsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 51,
+          "Name": "TextWithEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 52,
+          "Name": "IsRenderedByCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 53,
+          "Name": "BundleDevice_LoadAsync_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 54,
+          "Name": "SafeAreaExcludeOverride",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 55,
+          "Name": "SpatialMappingBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 56,
+          "Name": "SpatialMappingBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 57,
+          "Name": "CoroutineOwnerMapTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 58,
+          "Name": "InitPopupManagerAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 59,
+          "Name": "Physics2DRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 60,
+          "Name": "Physics2DRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 61,
+          "Name": "InitSettingsDataServiceAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 62,
+          "Name": "LocalizedWebLink",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 63,
+          "Name": "FibreService",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 64,
+          "Name": "Content_LoadFromResources_Immediate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 65,
+          "Name": "PlayMakerProxyBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 66,
+          "Name": "FileBytesDevice_LoadImmediate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 67,
+          "Name": "StaticTreeNodeDefinition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 68,
+          "Name": "ObjectPoolFullStrategy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 69,
+          "Name": "BytesDevice_LoadAsync_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 70,
+          "Name": "DataEntityHandleDestroyOwnerNullTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 71,
+          "Name": "LocalizedTextMesh",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 72,
+          "Name": "SafeAreaIncludeOverride",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 73,
+          "Name": "NetworkDiscovery",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 74,
+          "Name": "NetworkDiscovery",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 75,
+          "Name": "SliderTweener",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 76,
+          "Name": "FormFieldVerticalScrollFocusPositioner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 77,
+          "Name": "StateMachineDefinition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 78,
+          "Name": "SetActiveGameObjectStateHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 79,
+          "Name": "BundleManager_Mount_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 80,
+          "Name": "LauncherAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 81,
+          "Name": "JsonDevice_LoadAsync_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 82,
+          "Name": "ActionBaseGeneric\u00601",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 83,
+          "Name": "MaskableGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 84,
+          "Name": "MaskableGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 85,
+          "Name": "ReplaceOldest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 86,
+          "Name": "NativeAndroidKeyboard",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 87,
+          "Name": "Vector3Comparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 88,
+          "Name": "FileStringDevice_LoadImmediate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 89,
+          "Name": "ScriptableActionPlayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 90,
+          "Name": "BundleDevice_LoadAsyncWhileBundleLoading_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 91,
+          "Name": "BaseRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 92,
+          "Name": "BaseRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 93,
+          "Name": "NetworkBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 94,
+          "Name": "NetworkBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 95,
+          "Name": "TreeController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 96,
+          "Name": "TileView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 97,
+          "Name": "StringDevice_LoadAsync_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 98,
+          "Name": "LifetimeHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 99,
+          "Name": "ResponseCallbackDispatcher",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 100,
+          "Name": "AccessibilityManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 101,
+          "Name": "NetworkTransformChild",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 102,
+          "Name": "NetworkTransformChild",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 103,
+          "Name": "AspectRatioFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 104,
+          "Name": "AspectRatioFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 105,
+          "Name": "LanguagesPanelBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 106,
+          "Name": "PointerInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 107,
+          "Name": "PointerInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 108,
+          "Name": "PlayMakerControllerColliderHit",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 109,
+          "Name": "InitLauncherCardsAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 110,
+          "Name": "ComparerBaseGeneric\u00602",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 111,
+          "Name": "Mask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 112,
+          "Name": "Mask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 113,
+          "Name": "VersionUtils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 114,
+          "Name": "InspectorFooterView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 115,
+          "Name": "ToggleGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 116,
+          "Name": "ToggleGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 117,
+          "Name": "InspectorBoolView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 118,
+          "Name": "ScriptableActionSequence",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 119,
+          "Name": "ReadManifestDirectoryTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 120,
+          "Name": "NativeKeyboard",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 121,
+          "Name": "NetworkStartPosition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 122,
+          "Name": "NetworkStartPosition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 123,
+          "Name": "PlayMakerTriggerStay2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 124,
+          "Name": "CoroutineGroupTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 125,
+          "Name": "RadicalCoroutineTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 126,
+          "Name": "LogButtonClick",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 127,
+          "Name": "LauncherInitManagerComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 128,
+          "Name": "TweakableTileView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 129,
+          "Name": "PlayMakerCollisionEnter2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 130,
+          "Name": "Vector2Comparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 131,
+          "Name": "AccessibilitySettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 132,
+          "Name": "AbstractSafeAreaComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 133,
+          "Name": "LauncherCardPrefabController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 134,
+          "Name": "Outline",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 135,
+          "Name": "Outline",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 136,
+          "Name": "StateMachine",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 137,
+          "Name": "RemoveComponentTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 138,
+          "Name": "FibreBudget",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 139,
+          "Name": "LanguageSelectionPanelBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 140,
+          "Name": "LauncherLanguageDropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 141,
+          "Name": "NetworkLobbyManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 142,
+          "Name": "NetworkLobbyManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 143,
+          "Name": "NativeSystemBars",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 144,
+          "Name": "EnvironmentManagerIOS",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 145,
+          "Name": "ScrollRectTween",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 146,
+          "Name": "NetworkTransformVisualizer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 147,
+          "Name": "NetworkTransformVisualizer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 148,
+          "Name": "NetworkManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 149,
+          "Name": "NetworkManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 150,
+          "Name": "AccessibilityManagerIOS",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 151,
+          "Name": "ModalBackground",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 152,
+          "Name": "SwrveComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 153,
+          "Name": "PhysicsRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 154,
+          "Name": "PhysicsRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 155,
+          "Name": "Image",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 156,
+          "Name": "Image",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 157,
+          "Name": "StateMachineProxy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 158,
+          "Name": "Crittercism",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 159,
+          "Name": "JsonDevice_LoadImmediate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 160,
+          "Name": "PlayMakerFixedUpdate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 161,
+          "Name": "CanvasScalerExt",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 162,
+          "Name": "Singleton\u00601",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 163,
+          "Name": "InspectorToggleValueView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 164,
+          "Name": "DownloadAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 165,
+          "Name": "InputWrapper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 166,
+          "Name": "AsyncUtil",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 167,
+          "Name": "InspectorStepperView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 168,
+          "Name": "EventSystem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 169,
+          "Name": "EventSystem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 170,
+          "Name": "ValueDoesNotChange",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 171,
+          "Name": "LauncherPlayButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 172,
+          "Name": "PlayMakerApplicationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 173,
+          "Name": "SpatialMappingRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 174,
+          "Name": "SpatialMappingRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 175,
+          "Name": "ReplaceLowestPriority",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 176,
+          "Name": "IOSFacebookLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 177,
+          "Name": "KeyChainStandaloneManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 178,
+          "Name": "LayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 179,
+          "Name": "LayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 180,
+          "Name": "ObjectPoolGrowthStrategy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 181,
+          "Name": "TouchMonitor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 182,
+          "Name": "SingletonAcrossScenes",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 183,
+          "Name": "MemoryMonitorIOSManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 184,
+          "Name": "PlayMakerTriggerEnter2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 185,
+          "Name": "AndroidFacebookLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 186,
+          "Name": "MockShareDialog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 187,
+          "Name": "HorizontalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 188,
+          "Name": "HorizontalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 189,
+          "Name": "Content_Load_ShareRequest_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 190,
+          "Name": "PlayMakerCollisionStay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 191,
+          "Name": "AndroidFacebookGameObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 192,
+          "Name": "BundleMount_LoadShared_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 193,
+          "Name": "VectorComparerBase\u00601",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 194,
+          "Name": "TestRunner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 195,
+          "Name": "KeyChainManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 196,
+          "Name": "ComparerBaseGeneric\u00601",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 197,
+          "Name": "NativeIOSAccessibility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 198,
+          "Name": "GeneralComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 199,
+          "Name": "AsyncResourceLoader_LoadCallback_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 200,
+          "Name": "SettingsGraphicsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 201,
+          "Name": "BundleDevice_LoadImmediate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 202,
+          "Name": "IOSFacebookGameObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 203,
+          "Name": "AnalyticsManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 204,
+          "Name": "ArcadeFacebookGameObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 205,
+          "Name": "UILayoutSystemBroadcaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 206,
+          "Name": "ContentPreCachingConfig",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 207,
+          "Name": "BoolComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 208,
+          "Name": "KeyChainWindowsManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 209,
+          "Name": "EnvironmentControl",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 210,
+          "Name": "EnvironmentManagerStandalone",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 211,
+          "Name": "Selectable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 212,
+          "Name": "Selectable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 213,
+          "Name": "TreeNodeDefinition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 214,
+          "Name": "PlayMakerCollisionExit2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 215,
+          "Name": "ResourceDevice_LoadAsync_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 216,
+          "Name": "CanvasFacebookGameObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 217,
+          "Name": "CallTesting",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 218,
+          "Name": "InitConfiguratorAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 219,
+          "Name": "InspectorToggleGroupView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 220,
+          "Name": "BytesDevice_LoadImmediate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 221,
+          "Name": "RectMask2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 222,
+          "Name": "RectMask2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 223,
+          "Name": "LauncherSettingsButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 224,
+          "Name": "PlayMakerJointBreak2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 225,
+          "Name": "iOSHapticFeedback",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 226,
+          "Name": "LanguageTokenConfig",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 227,
+          "Name": "Slider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 228,
+          "Name": "Slider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 229,
+          "Name": "PlayMakerTriggerStay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 230,
+          "Name": "RawImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 231,
+          "Name": "RawImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 232,
+          "Name": "SafeAreaVerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 233,
+          "Name": "MobileFacebookGameObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 234,
+          "Name": "PlayMakerGUI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 235,
+          "Name": "iTween",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 236,
+          "Name": "LauncherLoadingBar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 237,
+          "Name": "MemoryMonitorAndroidManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 238,
+          "Name": "ResourceCleaner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 239,
+          "Name": "SliderAccessibilitySettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 240,
+          "Name": "InitAnalyticsAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 241,
+          "Name": "NativeKeyboardManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 242,
+          "Name": "PlayMakerGlobals",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 243,
+          "Name": "InspectorSliderView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 244,
+          "Name": "KeyBindingManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 245,
+          "Name": "PlayMakerTriggerEnter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 246,
+          "Name": "ScopedDataMonoBehaviour\u00601",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 247,
+          "Name": "ReplaceYoungest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 248,
+          "Name": "EnvironmentManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 249,
+          "Name": "Vector4Comparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 250,
+          "Name": "ContentDependencyEnabler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 251,
+          "Name": "LanguageToggleBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 252,
+          "Name": "OpenURLButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 253,
+          "Name": "AnalyticsTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 254,
+          "Name": "BundleManager_MountPinned_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 255,
+          "Name": "GameObjectPool",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 256,
+          "Name": "NetworkManagerHUD",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 257,
+          "Name": "NetworkManagerHUD",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 258,
+          "Name": "CanvasFacebookLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 259,
+          "Name": "MonoSingleton\u00601",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 260,
+          "Name": "EditorFacebookGameObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 261,
+          "Name": "ProximityListener",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 262,
+          "Name": "NetworkLobbyPlayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 263,
+          "Name": "NetworkLobbyPlayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 264,
+          "Name": "SpatialMappingCollider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 265,
+          "Name": "SpatialMappingCollider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 266,
+          "Name": "NativeAndroidSystemBars",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 267,
+          "Name": "DiskCache",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 268,
+          "Name": "StateMachineProxyLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 269,
+          "Name": "DropObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 270,
+          "Name": "TestComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 271,
+          "Name": "SafeAreaHeightSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 272,
+          "Name": "InAppRatingsPrompt",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 273,
+          "Name": "InspectorView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 274,
+          "Name": "NetworkIdentity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 275,
+          "Name": "NetworkIdentity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 276,
+          "Name": "Graphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 277,
+          "Name": "Graphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 278,
+          "Name": "PrefabCacheTrackerComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 279,
+          "Name": "MemoryMonitorOSXManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 280,
+          "Name": "InspectorStringView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 281,
+          "Name": "PriorityComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 282,
+          "Name": "SafeAreaCameraViewportSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 283,
+          "Name": "GameObjectPoolManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 284,
+          "Name": "UIBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 285,
+          "Name": "UIBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 286,
+          "Name": "JsBridge",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 287,
+          "Name": "ReplaceClosestToTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 288,
+          "Name": "NativeAccessibility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 289,
+          "Name": "AsyncResourceLoader_LoadInvalidKey_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 290,
+          "Name": "MultipleTransitionButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 291,
+          "Name": "LauncherSettingsCloseButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 292,
+          "Name": "IntComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 293,
+          "Name": "CheckInternetConnectionAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 294,
+          "Name": "UniWebViewEventProcessor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 295,
+          "Name": "ColliderComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 296,
+          "Name": "InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 297,
+          "Name": "InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 298,
+          "Name": "StringDevice_LoadImmediate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 299,
+          "Name": "LocalizedText",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 300,
+          "Name": "KeyChainIOSManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 301,
+          "Name": "StateMachineContext",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 302,
+          "Name": "InspectorBackgroundView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 303,
+          "Name": "EmptyMockDialog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 304,
+          "Name": "ScreenEdgeBandCalculator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 305,
+          "Name": "FullNameView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 306,
+          "Name": "Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 307,
+          "Name": "Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 308,
+          "Name": "MockKeyboard",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 309,
+          "Name": "FacebookScheduler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 310,
+          "Name": "Kochava",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 311,
+          "Name": "IncrementRenderQueue",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 312,
+          "Name": "TestScene",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 313,
+          "Name": "TileUIView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 314,
+          "Name": "EnableDisableBehaviourStateHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 315,
+          "Name": "LauncherCards",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 316,
+          "Name": "PassiveStateHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 317,
+          "Name": "KeyChainAndroidManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 318,
+          "Name": "ScrollerAccessibilitySettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 319,
+          "Name": "BundleDevice_UnmountWhileLoading_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 320,
+          "Name": "HorizontalOrVerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 321,
+          "Name": "HorizontalOrVerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 322,
+          "Name": "LauncherStartStateSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 323,
+          "Name": "PlayMakerRPCProxy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 324,
+          "Name": "PlayMakerCollisionEnter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 325,
+          "Name": "LauncherLoadingSnippets",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 326,
+          "Name": "Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 327,
+          "Name": "Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 328,
+          "Name": "NativeSystemBarsManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 329,
+          "Name": "DeleteClientInstallerAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 330,
+          "Name": "DoubleInSize",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 331,
+          "Name": "InitContentSystemAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 332,
+          "Name": "SiblingDisabler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 333,
+          "Name": "InitializeManifestDefinitionTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 334,
+          "Name": "HoloLensInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 335,
+          "Name": "HoloLensInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 336,
+          "Name": "TweakableUIView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 337,
+          "Name": "SingletonPrefabInstantiator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 338,
+          "Name": "DynamicTreeNodeDefinition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 339,
+          "Name": "AsyncRequestString",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 340,
+          "Name": "ReplaceFarthestFromTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 341,
+          "Name": "TweakerConsoleController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 342,
+          "Name": "InitLocalizedLanguageAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 343,
+          "Name": "AsyncResourceLoader_Load_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 344,
+          "Name": "LoadingHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 345,
+          "Name": "AudioSpatializerMicrosoft",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 346,
+          "Name": "AudioSpatializerMicrosoft",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 347,
+          "Name": "BaseIntegrationTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 348,
+          "Name": "EnvironmentSelectorController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 349,
+          "Name": "StandaloneInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 350,
+          "Name": "StandaloneInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 351,
+          "Name": "ProximityService",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 352,
+          "Name": "GrowPool",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 353,
+          "Name": "FinalizeAutoTweakableTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 354,
+          "Name": "ScrollContentAccessibilitySettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 355,
+          "Name": "PlayMakerTriggerExit",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 356,
+          "Name": "PlayMakerPrefs",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 357,
+          "Name": "PlayMakerCollisionExit",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 358,
+          "Name": "BundleMount_Load_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 359,
+          "Name": "AbstractLocalizedText",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 360,
+          "Name": "TransformComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 361,
+          "Name": "InitActionComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 362,
+          "Name": "NetworkMigrationManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 363,
+          "Name": "NetworkMigrationManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 364,
+          "Name": "UISelectionBroadcaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 365,
+          "Name": "PlayMakerJointBreak",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 366,
+          "Name": "NetworkProximityChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 367,
+          "Name": "NetworkProximityChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 368,
+          "Name": "SafeAreaRectTransformPosition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 369,
+          "Name": "FsmTemplate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 370,
+          "Name": "MemoryMonitorWindowsManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 371,
+          "Name": "ExpandByAmount",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 372,
+          "Name": "SwipeAccessibilitySettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 373,
+          "Name": "VerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 374,
+          "Name": "VerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 375,
+          "Name": "GraphicRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 376,
+          "Name": "GraphicRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 377,
+          "Name": "TrackMouseMovement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 378,
+          "Name": "BaseInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 379,
+          "Name": "BaseInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 380,
+          "Name": "ActionBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 381,
+          "Name": "EditorFacebookMockDialog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 382,
+          "Name": "ScrollRect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 383,
+          "Name": "ScrollRect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 384,
+          "Name": "CheckAvailableSpaceAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 385,
+          "Name": "SafeAreaRectTransformAnchors",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 386,
+          "Name": "ImageCleaner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 387,
+          "Name": "PlayMakerFSM",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 388,
+          "Name": "InitLauncherAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 389,
+          "Name": "MemoryMonitorManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 390,
+          "Name": "Button",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 391,
+          "Name": "Button",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 392,
+          "Name": "CallbackExecutor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 393,
+          "Name": "LocalizedSprite",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 394,
+          "Name": "ProximityBroadcaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 395,
+          "Name": "SafeAreaCanvasOffset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 396,
+          "Name": "MockLoginDialog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 397,
+          "Name": "LauncherPromptManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 398,
+          "Name": "FB",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 399,
+          "Name": "Shadow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 400,
+          "Name": "Shadow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 401,
+          "Name": "HexGridController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 402,
+          "Name": "Content_LoadFromResources_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 403,
+          "Name": "NetworkAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 404,
+          "Name": "NetworkAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 405,
+          "Name": "PlayMakerOnGUI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 406,
+          "Name": "LauncherPopupManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 407,
+          "Name": "ActionMonoBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 408,
+          "Name": "StateMachineLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 409,
+          "Name": "PlayModeRunnerCallback",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 410,
+          "Name": "BaseMeshEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 411,
+          "Name": "BaseMeshEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 412,
+          "Name": "SwrveManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 413,
+          "Name": "ActiveStateHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 414,
+          "Name": "BaseContentIntegrationTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 415,
+          "Name": "LayoutElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 416,
+          "Name": "LayoutElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 417,
+          "Name": "BaseDataMonoBehaviour\u00601",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 418,
+          "Name": "DataEntityCollectionEventsTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 419,
+          "Name": "InspectorDescriptionView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 420,
+          "Name": "PlayMakerAnimatorMove",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 421,
+          "Name": "Placeholder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 422,
+          "Name": "FormFieldFocusItem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 423,
+          "Name": "ContentSizeFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 424,
+          "Name": "ContentSizeFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 425,
+          "Name": "InitLocalizerSetupAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 426,
+          "Name": "LocalDiskAssetBundle_Load_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 427,
+          "Name": "PlayMakerAnimatorIK",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 428,
+          "Name": "ToggleAccessibilitySettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 429,
+          "Name": "Content_LoadFromBundle_Immediate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 430,
+          "Name": "PerformanceDisplay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 431,
+          "Name": "ScriptableAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 432,
+          "Name": "SafeAreaLayoutElementSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 433,
+          "Name": "ScriptableActionPause",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 434,
+          "Name": "PositionAsUV1",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 435,
+          "Name": "PositionAsUV1",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 436,
+          "Name": "LoadingController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 437,
+          "Name": "HoloLensInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 438,
+          "Name": "HoloLensInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 439,
+          "Name": "SolidColorFiller",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 440,
+          "Name": "InitInstallerManifestServiceAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 441,
+          "Name": "WwwBundleDevice_Load_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 442,
+          "Name": "UnityThreadHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 443,
+          "Name": "Content_LoadFromWwwBundle_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 444,
+          "Name": "CoroutineRunner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 445,
+          "Name": "BundleMount_DependenciesCreate_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 446,
+          "Name": "iTweenFSMEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 447,
+          "Name": "InspectorHeaderView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 448,
+          "Name": "CanvasScaler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 449,
+          "Name": "CanvasScaler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 450,
+          "Name": "AccessibilityManagerAndroid",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 451,
+          "Name": "TouchInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 452,
+          "Name": "TouchInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 453,
+          "Name": "StateMachineContextListener",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 454,
+          "Name": "LocalizedTexture",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 455,
+          "Name": "BundleManager_UnmountOldBundles_Test",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 456,
+          "Name": "ComparerBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 457,
+          "Name": "Toggle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 458,
+          "Name": "Toggle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 459,
+          "Name": "AssertionComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 460,
+          "Name": "NativeAccessibilityManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 461,
+          "Name": "NativeIOSKeyboard",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 462,
+          "Name": "PlatformSpecificText",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 463,
+          "Name": "TileBackgroundView",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets0.assets",
+      "Assets": [
+        {
+          "PathID": 14,
+          "Name": "SpriteAtlasTexture-UI_ChangeRoom-128x128-fmt12",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "Tray_Tintable_Footer_BG",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "sharedassets_squircle_tintable",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "CardArt_Upgrade",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "Launcher_Pattern_Teal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "CardArt_Welcome",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "Homescreen_Icon_Settings",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "SharedAssets_ScrollBarAsset_Square",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "StyleFace",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "SharedAssets_GenericBTN_Off",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "Homescreen_CPILogo_en_US",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "SharedAssets_GenericPopUpBTN_Red",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "SharedAssets_GenericBTN_On",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "Prompt_BG",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "CPRemix_SharedAssets_SquareImageTint",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "SharedAssets_SquareMask",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "RaveFace",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "HelpButton",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "SharedAssets_Stripe_tintable",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "TubeRaceScreen_Btn_Orange",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "SharedAssets_RoundedHeaderBGSm",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "SharedAssets_ErrorPattern",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "SharedAssets_ButtonTickOn_Lg",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "Launcher_Pattern_NavyBlue",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "TubeRaceScreen_Btn_Grey",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "SharedAssets_Arrow_Down",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "SharedAssets_PopupPattern",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "Launcher_Pattern_MedLightBlue",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "SharedAssets_ButtonCrossOff_Lg",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "SharedAssets_ButtonCrossOff",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 51,
+          "Name": "SharedAssets_Preloader_Blue_FG",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 52,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 53,
+          "Name": "ProgressBar_Emote_Happy_Orange",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 54,
+          "Name": "Launcher_Pattern_Red",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "Launcher_Pattern_ClassicBlue",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 56,
+          "Name": "SharedAssets_RoundedShadedSquare",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 57,
+          "Name": "Tray_Tintable_Footer_Highlight",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 58,
+          "Name": "SharedAssets_BottomListBG",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 59,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 60,
+          "Name": "Homescreen_SplashScreenLegacy_BG",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 61,
+          "Name": "Prompt_MaskBG",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 62,
+          "Name": "MinimizeButton",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 63,
+          "Name": "LoginCreate_Divider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 64,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "unity_builtin_extra",
+      "Assets": []
+    },
+    {
+      "Name": "unity default resources",
+      "Assets": [
+        {
+          "PathID": 10001,
+          "Name": "Soft",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10103,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10200,
+          "Name": "pSphere1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10202,
+          "Name": "Cube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10203,
+          "Name": "pCylinder1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10204,
+          "Name": "pPlane1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10205,
+          "Name": "polySurface2",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10206,
+          "Name": "Cylinder",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10207,
+          "Name": "Sphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10208,
+          "Name": "Capsule",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10209,
+          "Name": "Plane",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10210,
+          "Name": "Quad",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10211,
+          "Name": "Icosphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10212,
+          "Name": "icosahedron",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10213,
+          "Name": "pyramid",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10400,
+          "Name": "UnityWatermark-small",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10401,
+          "Name": "EscToExit_back",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10402,
+          "Name": "EscToExit_Text",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10403,
+          "Name": "UnitySplash-cube",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10407,
+          "Name": "UnityWatermark-trial",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10408,
+          "Name": "UnityWatermark-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10409,
+          "Name": "UnityWatermark-edu",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10410,
+          "Name": "UnityWatermark-dev",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10411,
+          "Name": "WarningSign",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10413,
+          "Name": "UnityWatermark-proto",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10414,
+          "Name": "UnityWatermarkPlugin-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11001,
+          "Name": "box",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11002,
+          "Name": "button active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11003,
+          "Name": "button hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11004,
+          "Name": "button on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11005,
+          "Name": "button on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11006,
+          "Name": "button",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11007,
+          "Name": "horizontal scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11008,
+          "Name": "horizontal scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11009,
+          "Name": "horizontalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11010,
+          "Name": "slider thumb active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11011,
+          "Name": "slider thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11012,
+          "Name": "slidert humb hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11013,
+          "Name": "toggle active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11014,
+          "Name": "toggle hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11015,
+          "Name": "toggle on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11016,
+          "Name": "toggle on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11017,
+          "Name": "toggle on active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11018,
+          "Name": "toggle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11019,
+          "Name": "vertical scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11020,
+          "Name": "vertical scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11021,
+          "Name": "verticalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11022,
+          "Name": "window on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11023,
+          "Name": "window",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11024,
+          "Name": "textfield",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11025,
+          "Name": "textfield on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11026,
+          "Name": "textfield hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11998,
+          "Name": "DeveloperConsole",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12001,
+          "Name": "GUISkin",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 15000,
+          "Name": "UnitySplash-HolographicTrackingLoss",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "level0",
+      "Assets": []
+    },
+    {
+      "Name": "globalgamemanagers",
+      "Assets": []
+    }
+  ]
+}
