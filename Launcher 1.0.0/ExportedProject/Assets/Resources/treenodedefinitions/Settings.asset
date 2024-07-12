@@ -8,10 +8,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1603319909, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: fcb21a0c298ec1c989c132b0c4f24133, type: 3}
   m_Name: Settings
   m_EditorClassIdentifier:
-  NodePrefab: {fileID: 1814991485594333, guid: 5dff62b9002f07a4fbac14a8da24be3d, type: 2}
+  NodePrefab: {fileID: 1347563528753095, guid: ca0327355a1210343b3a60f05a2f6b43, type: 2}
   ChildNodes:
-  - {fileID: 11400000, guid: 120f536efea058246aa282d6067908d4, type: 2}
-  - {fileID: 11400000, guid: 191ea36ef003dc14abb262837b6886d6, type: 2}
+  - {fileID: 11400000, guid: a9ffe6e3811b6c644837f3ead5e59c6b, type: 2}
+  - {fileID: 11400000, guid: 778dea78f4fe9ae40917e99948432677, type: 2}

@@ -1,0 +1,7 @@
+{
+  "name": "FoundationUnity",
+  "references": [
+    "Foundation"
+  ],
+  "allowUnsafeCode": true
+}

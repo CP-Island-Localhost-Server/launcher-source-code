@@ -8,9 +8,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1603319909, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: fcb21a0c298ec1c989c132b0c4f24133, type: 3}
   m_Name: SettingsContent
   m_EditorClassIdentifier:
-  NodePrefab: {fileID: 1480863701139381, guid: ae8c86877a0881c439362ce16cde5925, type: 2}
+  NodePrefab: {fileID: 1941958952026702, guid: 27548e36687263542a745bbf8dee7bc6, type: 2}
   ChildNodes:
-  - {fileID: 11400000, guid: 3a077208b43c85342b5b4497f72d0b1c, type: 2}
+  - {fileID: 11400000, guid: 27e011a360ef0fd47a1c564d64d998b6, type: 2}

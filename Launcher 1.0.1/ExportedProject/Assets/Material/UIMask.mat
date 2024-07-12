@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: UIMask
-  m_Shader: {fileID: 4800000, guid: e1941b41b81c2b349b217e0a53dc67fb, type: 3}
+  m_Shader: {fileID: 4800000, guid: 99290a101e40f6d48bf8922deb427188, type: 3}
   m_ShaderKeywords:
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0

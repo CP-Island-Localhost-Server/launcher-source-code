@@ -1,0 +1,45 @@
+namespace HutongGames.PlayMaker.Actions
+{
+	[Tooltip("Add values to an array.")]
+	[ActionCategory(ActionCategory.Array)]
+	public class ArrayAddRange : FsmStateAction
+	{
+		[RequiredField]
+		[UIHint(UIHint.Variable)]
+		[Tooltip("The Array Variable to use.")]
+		public FsmArray array;
+
+		[Tooltip("The variables to add.")]
+		[MatchElementType("array")]
+		[RequiredField]
+		public FsmVar[] variables;
+
+		public override void Reset()
+		{
+			array = null;
+			variables = new FsmVar[2];
+		}
+
+		public override void OnEnter()
+		{
+			DoAddRange();
+			Finish();
+		}
+
+		private void DoAddRange()
+		{
+			int num = variables.Length;
+			if (num > 0)
+			{
+				this.array.Resize(this.array.Length + num);
+				FsmVar[] array = variables;
+				foreach (FsmVar fsmVar in array)
+				{
+					fsmVar.UpdateValue();
+					this.array.Set(this.array.Length - num, fsmVar.GetValue());
+					num--;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Launcher",
+  "references": [
+    "UnityShared",
+    "Foundation"
+  ],
+  "allowUnsafeCode": true
+}

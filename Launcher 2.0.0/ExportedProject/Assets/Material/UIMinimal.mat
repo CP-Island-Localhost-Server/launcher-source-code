@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: UIMinimal
-  m_Shader: {fileID: 4800000, guid: b3dbbcc704e245447a3583c92f6398d6, type: 3}
+  m_Shader: {fileID: 4800000, guid: dd35ec9e5d6882b4e95df1b94729f43f, type: 3}
   m_ShaderKeywords:
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0

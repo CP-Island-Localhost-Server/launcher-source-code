@@ -1737,7 +1737,7 @@ Animator:
   m_GameObject: {fileID: 2}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 668f7abd18bbb7045b61d09dca3219be, type: 2}
+  m_Controller: {fileID: 9100000, guid: 45432f4a855ef064c985f435d3d475b3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1754,7 +1754,7 @@ Animator:
   m_GameObject: {fileID: 16}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 668f7abd18bbb7045b61d09dca3219be, type: 2}
+  m_Controller: {fileID: 9100000, guid: 45432f4a855ef064c985f435d3d475b3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1771,7 +1771,7 @@ Animator:
   m_GameObject: {fileID: 21}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 668f7abd18bbb7045b61d09dca3219be, type: 2}
+  m_Controller: {fileID: 9100000, guid: 45432f4a855ef064c985f435d3d475b3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1788,7 +1788,7 @@ Animator:
   m_GameObject: {fileID: 26}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 84464bac18e83bb48b9b7d035ada2ba7, type: 2}
+  m_Controller: {fileID: 9100000, guid: c37625be126695c4ebd1f1d299df6b25, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1805,7 +1805,7 @@ Animator:
   m_GameObject: {fileID: 46}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 84464bac18e83bb48b9b7d035ada2ba7, type: 2}
+  m_Controller: {fileID: 9100000, guid: c37625be126695c4ebd1f1d299df6b25, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1822,7 +1822,7 @@ Animator:
   m_GameObject: {fileID: 50}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 84464bac18e83bb48b9b7d035ada2ba7, type: 2}
+  m_Controller: {fileID: 9100000, guid: c37625be126695c4ebd1f1d299df6b25, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1839,7 +1839,7 @@ Animator:
   m_GameObject: {fileID: 55}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ad0ffef657d07a94a8bf19f988af4395, type: 2}
+  m_Controller: {fileID: 9100000, guid: 28e36c8cb63913f40a6ceeee82aa2dce, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1856,7 +1856,7 @@ Animator:
   m_GameObject: {fileID: 57}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ff2fae88d72e9ae4190604e2f34a228e, type: 2}
+  m_Controller: {fileID: 9100000, guid: 46c77de6dd53341458023158b1586460, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1873,7 +1873,7 @@ Animator:
   m_GameObject: {fileID: 69}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 668f7abd18bbb7045b61d09dca3219be, type: 2}
+  m_Controller: {fileID: 9100000, guid: 45432f4a855ef064c985f435d3d475b3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1890,7 +1890,7 @@ Animator:
   m_GameObject: {fileID: 74}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 668f7abd18bbb7045b61d09dca3219be, type: 2}
+  m_Controller: {fileID: 9100000, guid: 45432f4a855ef064c985f435d3d475b3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1907,7 +1907,7 @@ Animator:
   m_GameObject: {fileID: 75}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 84464bac18e83bb48b9b7d035ada2ba7, type: 2}
+  m_Controller: {fileID: 9100000, guid: c37625be126695c4ebd1f1d299df6b25, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1924,7 +1924,7 @@ Animator:
   m_GameObject: {fileID: 79}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 77d1f8a9acc230e4393976ad7e8aaddf, type: 2}
+  m_Controller: {fileID: 9100000, guid: c64cfc2745f53994e93d45bc900ba89e, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3955,14 +3955,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: df38b58ccfc7b774ea78a120bd744f5d, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 3f63987ef58a21c41b87ef8afa6b4e70, type: 2}
   m_Type: 2
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3978,7 +3978,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1012224837, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: cfc83f9d1aefd05d8a9cb8eef99470f2, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   Tier1: bottom_UI
@@ -3991,7 +3991,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 198872523, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: a2ccada5bdfd898612689503458d3cb8, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   urlToken: "GlobalUI.Settings.SettingsURLs.kidsprivacypolicy\t"
@@ -4068,14 +4068,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ef7ec50fdb84f09448c7a055e996d024, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 81661d9e2142e34479a155cac7ab1f19, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4106,14 +4106,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 1, g: 0.5092437, b: 0.17647058, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 3ced8d2f3d1af3443a7597e8ee01536a, type: 2}
+  m_Sprite: {fileID: 21300000, guid: e49b2e644f499564fada05c6b77ad907, type: 2}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4161,7 +4161,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 599512971, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ffb93311ce390d1cf3245d49bc926ef, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   token: GlobalUI.Launcher.TermsOfUse
@@ -4189,7 +4189,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b2ce657adf054814f8c1e528a19c7af7, type: 3}
+    m_Font: {fileID: 12800000, guid: f81c77ffec15c474c9bbdea289f25cd8, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -4210,7 +4210,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1775701079, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 5dc15468a7781e683a324df6e3d072bc, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   DefaultTitleToken: LauncherUI.Note.Quit
@@ -4225,7 +4225,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 10}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 885090596, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 55dca9551e6760ef7fd5c5970ba6e4ae, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &269
@@ -4253,14 +4253,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 23ebea0551899044bb83148964ade36b, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 85090325a151a4a4cbc150950b1278b3, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -4279,14 +4279,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 1e3186960b2fb3f4389fa1f80036a44e, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 771c6cde9d9773f4d9b9fde3ed5bd19d, type: 2}
   m_Type: 2
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4313,7 +4313,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 32c43836c514b2b44bcdbf29b10143ca, type: 3}
+    m_Font: {fileID: 12800000, guid: 0b01d0412370569479aa7305a38bcf0b, type: 3}
     m_FontSize: 17
     m_FontStyle: 0
     m_BestFit: 0
@@ -4334,7 +4334,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 12}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 599512971, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ffb93311ce390d1cf3245d49bc926ef, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   token: LauncherUI.Body.Description.Welcome
@@ -4365,7 +4365,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 13}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -876234543, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 09cf78f96d8bb1981355a99dfe176680, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   LanguageTokens:
@@ -4455,14 +4455,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 0.08627451, g: 0.58431375, b: 0.93725497, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 36cac8f73f75f534aab982322ac1c8ba, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 5c8f7b9a1e6c14e498775344b3fa59b3, type: 2}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4489,7 +4489,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 2701d3c08c5208045bf3f4961bcd0403, type: 3}
+    m_Font: {fileID: 12800000, guid: 2322179e85e44f04d85511f15f2551fd, type: 3}
     m_FontSize: 16
     m_FontStyle: 1
     m_BestFit: 0
@@ -4510,7 +4510,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 15}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 171077085, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 1c25bd5390821ddbae0e967e152d644b, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   ObjectsToEnable:
@@ -4526,14 +4526,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 1abb3fdb4aeeb8c4eb1183dc18208819, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 28e6e52b22626714580f0fe441c146a3, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4549,7 +4549,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 16}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1012224837, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: cfc83f9d1aefd05d8a9cb8eef99470f2, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   Tier1: bottom_UI
@@ -4562,7 +4562,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 16}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 198872523, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: a2ccada5bdfd898612689503458d3cb8, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   urlToken: GlobalUI.Settings.SettingsURLs.tou
@@ -4639,14 +4639,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ef7ec50fdb84f09448c7a055e996d024, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 81661d9e2142e34479a155cac7ab1f19, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4662,7 +4662,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 17}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 868999849, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 82222f03ed2e5ceb2ec170a427cbbfb3, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   loadRatio: 1
@@ -4675,7 +4675,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 17}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1885939574, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: d9ff88236196a3530e12434087a3b520, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   loadRatio: 0.1
@@ -4690,7 +4690,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 17}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -645344197, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: d01ef37c84f2ee428e4421680e82bf27, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   loadRatio: 1
@@ -4705,7 +4705,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 17}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1377547726, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 025718ee4e4340e93bafd61d4900766a, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   loadRatio: 1
@@ -4723,7 +4723,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 17}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 992033333, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 5998f9737df8db2186126152e2a761cb, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   loadingBar: {fileID: 361}
@@ -4796,14 +4796,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 62d44e40efa0308449bdffdcfaf43b42, type: 2}
+  m_Sprite: {fileID: 21300000, guid: ffeff3b2070e9e643a373dbc9df2dfe6, type: 2}
   m_Type: 2
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4819,7 +4819,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 20}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1077068208, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 512d08340115baa4ac6c077012b47633, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &296
@@ -4830,7 +4830,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 21}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1012224837, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: cfc83f9d1aefd05d8a9cb8eef99470f2, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   Tier1: bottom_UI
@@ -4843,7 +4843,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 21}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 198872523, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: a2ccada5bdfd898612689503458d3cb8, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   urlToken: GlobalUI.Settings.SettingsURLs.CaliforniaRights
@@ -4920,14 +4920,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ef7ec50fdb84f09448c7a055e996d024, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 81661d9e2142e34479a155cac7ab1f19, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4946,14 +4946,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: a18962d368a05044c8360c66df031ad1, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 099111f54a3666048b828620ba5b2574, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -5001,7 +5001,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 2a049b81446528c4a93988a7e033d522, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 1e9a1e883ed463c418e70263bdf13fc6, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5079,7 +5079,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 26}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1012224837, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: cfc83f9d1aefd05d8a9cb8eef99470f2, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   Tier1: settings
@@ -5092,7 +5092,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 26}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -141310497, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 05d8591c461951677254d4722395d09c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   SettingsContentKey:
@@ -5174,7 +5174,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: b2d5ec70b8c839543946e22289bb26a8, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 4b2f6f259d2309047b18a1b3e4456deb, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -5211,14 +5211,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 828ba1eb774cbe448860f45a016e2299, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 3774193dd763bd046809f710db2b75e4, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5244,7 +5244,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 2a049b81446528c4a93988a7e033d522, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 1e9a1e883ed463c418e70263bdf13fc6, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5281,14 +5281,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 828ba1eb774cbe448860f45a016e2299, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 3774193dd763bd046809f710db2b75e4, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5325,14 +5325,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 828ba1eb774cbe448860f45a016e2299, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 3774193dd763bd046809f710db2b75e4, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5404,14 +5404,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: e928af8f78f493449b4c70d30493747d, type: 2}
+  m_Sprite: {fileID: 21300000, guid: b797c967aed8ae646bf1cb9bf37b290c, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5463,7 +5463,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -18574613, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 37bcb102042ee2408fdf6ec7c2206809, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &325
@@ -5474,7 +5474,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 560582412, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 28b8923c315c03d109285f3fa415c9f0, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   RetryTime: 5
@@ -5489,7 +5489,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1667658259, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 4afca08d398b81fe81e4e95815ef93bc, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &327
@@ -5500,7 +5500,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1222031128, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: b0b85bb80f0f3d10af15bfe83b4643be, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   LauncherCards: {fileID: 374}
@@ -5512,7 +5512,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1709804838, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 76d08c255d2b1dba82b271713a18e12c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   PopupCanvas: {fileID: 81}
@@ -5525,7 +5525,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1913531389, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: f7baafb731a24c5431d931f96c8a8b01, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   ErrorPromptTitleToken: GlobalUI.Oops
@@ -5538,7 +5538,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 872702408, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 5acb5f53fb2acf599608bcb52bf380cd, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &331
@@ -5549,7 +5549,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1386254022, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: f7480038a3b6292ffd6e8e6f56f919f2, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   OnObjects:
@@ -5566,7 +5566,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -174353099, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 9e62b367af61a4802ec7190f4f67e425, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &333
@@ -5577,7 +5577,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1748813815, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 4f78feb9454e8870964863c43c2b3118, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   AppTitleToken: Accessibility.Popup.Title.Home
@@ -5589,7 +5589,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2077021722, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 90635365fba040e821e0eee811f670d7, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   ServicesContainer: {fileID: 54}
@@ -5601,7 +5601,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 37}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -989687142, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 5b75e873c991252675ac60c653c2511e, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   ServicesContainer: {fileID: 54}
@@ -5624,7 +5624,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 0b990a8e56ccc5b48ab305c18dec3814, type: 3}
+    m_Font: {fileID: 12800000, guid: eebf5fefd8f3b7b48b47fdf6f427fc99, type: 3}
     m_FontSize: 26
     m_FontStyle: 0
     m_BestFit: 0
@@ -5645,7 +5645,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 38}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 599512971, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ffb93311ce390d1cf3245d49bc926ef, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   token: LauncherUI.Body.Title.Welcome
@@ -5710,7 +5710,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: dfb613636e59dc24d921e4b9cfa0e288, type: 3}
+    m_Font: {fileID: 12800000, guid: 39968da7af9529742aa9966fda996abc, type: 3}
     m_FontSize: 16
     m_FontStyle: 0
     m_BestFit: 0
@@ -5734,14 +5734,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 0, g: 0, b: 0, a: 0.11764706}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 2399aacc6f45e8a4d860054fe5ced234, type: 2}
+  m_Sprite: {fileID: 21300000, guid: e2bda0a8cbee3114ba85615dcf406543, type: 2}
   m_Type: 2
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5760,14 +5760,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 88b589880dc5f3b489c6a448176065ed, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 2482bef8ddfd7584eb7916e2fdb7861b, type: 2}
   m_Type: 2
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5804,14 +5804,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 828ba1eb774cbe448860f45a016e2299, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 3774193dd763bd046809f710db2b75e4, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5920,14 +5920,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: b2718406219feaf4aacb0b57b8a553fa, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 082e2a1cbfd68d543b46e02b47f955f1, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -5958,7 +5958,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
@@ -5981,7 +5981,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 49}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 599512971, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ffb93311ce390d1cf3245d49bc926ef, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   token: GlobalUI.LegalCopyrightNotice.LegalText
@@ -6009,7 +6009,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b2ce657adf054814f8c1e528a19c7af7, type: 3}
+    m_Font: {fileID: 12800000, guid: f81c77ffec15c474c9bbdea289f25cd8, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -6030,7 +6030,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 50}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1012224837, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: cfc83f9d1aefd05d8a9cb8eef99470f2, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   Tier1: settings
@@ -6043,7 +6043,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 50}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 198872523, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: a2ccada5bdfd898612689503458d3cb8, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   urlToken: GlobalUI.Settings.SettingsURLs.cphelp
@@ -6116,14 +6116,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 0c64f6c94a5e86b4eba5624c37a3a3da, type: 2}
+  m_Sprite: {fileID: 21300000, guid: a77474666a282c444a1533faf391793a, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -6139,7 +6139,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 52}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 885090596, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 55dca9551e6760ef7fd5c5970ba6e4ae, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &359
@@ -6167,14 +6167,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 46902c09aeaab8f43ace71580393875c, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 1b7195d812469384982587b27b49c63a, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -6190,7 +6190,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 53}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -59296872, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 88edc2753ef894054b82125c61cf329a, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   emojiIcon: {fileID: 6}
@@ -6250,14 +6250,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 0.009083053, g: 0.277141, b: 0.61764705, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 3ced8d2f3d1af3443a7597e8ee01536a, type: 2}
+  m_Sprite: {fileID: 21300000, guid: e49b2e644f499564fada05c6b77ad907, type: 2}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6273,7 +6273,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 54}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 836114241, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 8b8c5c68a3be53d6e62c6a2b27337879, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &366
@@ -6284,7 +6284,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 54}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 171077085, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 1c25bd5390821ddbae0e967e152d644b, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   ObjectsToEnable:
@@ -6297,7 +6297,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 55}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 556157660, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: d271a49e7a2a33e1f10986b49b1cc8f7, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   m_Navigation:
@@ -6317,7 +6317,7 @@ MonoBehaviour:
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
     m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 21300000, guid: 06d3df2ea275c404bbad3c326c160cc8, type: 2}
+    m_DisabledSprite: {fileID: 21300000, guid: 4c5000fc00a598644ab52ef784dc1fb7, type: 2}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -6337,7 +6337,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 55}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -610383328, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 04b110d0f3c9448695be9a8ca9e52f95, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   PlayToken: GlobalUI.Button.Play
@@ -6352,14 +6352,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 2b91cf515f0c8cc49853f74e51396a2d, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 7b75514722be3a041a7011bb95e7889e, type: 2}
   m_Type: 1
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -6378,14 +6378,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: dc959bfc2c71ea3449fed00a1de6b938, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 15e20eeb20bab7145b0bbdaadc0d247c, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6404,14 +6404,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 2da10d7e46cddf448894eb0308d9c4da, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 8029fe59b50459a45ad2e131d61d41ce, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -6442,7 +6442,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
@@ -6465,12 +6465,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 59}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 777479981, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 1a3cff43f53d44c268314986d20f0a78, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   LauncherCardsContainer: {fileID: 28}
-  LauncherCardPrefab: {fileID: 114013107881732923, guid: 7c11b710610d61f49a4e798d0c84ce05, type: 2}
-  UpdateCardPrefab: {fileID: 1848782806683807, guid: 38e0e8c9b65db2a4a9247b7f52b2ddf9, type: 2}
+  LauncherCardPrefab: {fileID: 114704691501962010, guid: 4f01e086baf02ed498ca0aef721b7641, type: 2}
+  UpdateCardPrefab: {fileID: 1945153032984707, guid: 6e037a2073f01914d95409f3737b572d, type: 2}
 --- !u!114 &375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6522,14 +6522,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 0, g: 0.35686275, b: 0.9058824, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 50350a6182f82334e89c0b2a3f4fd3f5, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 5ae924e7d6b4966438baf4feb2c2e1b7, type: 2}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6545,7 +6545,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 61}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -912731362, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: c9cad06e02aa31cdebe3a04b9121d774, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   Id:
@@ -6568,7 +6568,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 61}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1526039455, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 00946b2496107669bf995509babe125b, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   StartsVisible: 1
@@ -6588,14 +6588,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f6b63e0c37e793d43ade1b7dce829f6e, type: 2}
+  m_Sprite: {fileID: 21300000, guid: a0302cdbe2e218c49bc99e92308a244a, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6632,14 +6632,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 828ba1eb774cbe448860f45a016e2299, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 3774193dd763bd046809f710db2b75e4, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6655,7 +6655,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 65}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 171077085, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 1c25bd5390821ddbae0e967e152d644b, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   ObjectsToEnable:
@@ -6684,7 +6684,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 65}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -661052037, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 1004c48851c57d275996747405aea604, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   m_UiScaleMode: 0
@@ -6731,7 +6731,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 67}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 599512971, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ffb93311ce390d1cf3245d49bc926ef, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   token: GlobalUI.Settings.SettingsCanvas.CaliforniaRights
@@ -6759,7 +6759,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b2ce657adf054814f8c1e528a19c7af7, type: 3}
+    m_Font: {fileID: 12800000, guid: f81c77ffec15c474c9bbdea289f25cd8, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -6780,7 +6780,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 68}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 599512971, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ffb93311ce390d1cf3245d49bc926ef, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   token: GlobalUI.Settings.SettingsCanvas.LicenseCreditsButton
@@ -6808,7 +6808,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b2ce657adf054814f8c1e528a19c7af7, type: 3}
+    m_Font: {fileID: 12800000, guid: f81c77ffec15c474c9bbdea289f25cd8, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -6829,7 +6829,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 69}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1012224837, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: cfc83f9d1aefd05d8a9cb8eef99470f2, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   Tier1: bottom_UI
@@ -6842,7 +6842,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 69}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 198872523, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: a2ccada5bdfd898612689503458d3cb8, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   urlToken: GlobalUI.Settings.SettingsURLs.licensecredits
@@ -6919,14 +6919,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ef7ec50fdb84f09448c7a055e996d024, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 81661d9e2142e34479a155cac7ab1f19, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6942,7 +6942,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 70}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 885090596, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 55dca9551e6760ef7fd5c5970ba6e4ae, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &397
@@ -6970,14 +6970,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ecc923fd693bbf34496c1bd4c7277542, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 37f2423c96dc5e34ca05b7c09c42b545, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -6993,7 +6993,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 72}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 849525772, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: c04779b5224f776dc7692eb6c6b99cd8, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   SnippetText: {fileID: 279}
@@ -7059,7 +7059,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 74}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1012224837, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: cfc83f9d1aefd05d8a9cb8eef99470f2, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   Tier1: bottom_UI
@@ -7072,7 +7072,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 74}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 198872523, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: a2ccada5bdfd898612689503458d3cb8, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   urlToken: GlobalUI.Settings.SettingsURLs.privacypolicy
@@ -7149,14 +7149,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ef7ec50fdb84f09448c7a055e996d024, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 81661d9e2142e34479a155cac7ab1f19, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7233,14 +7233,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: e84072e816da6214dab2ca07ada2cd28, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 7e9b4fd5031eef740b49e09c87631518, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -7256,7 +7256,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 76}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 599512971, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ffb93311ce390d1cf3245d49bc926ef, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   token: GlobalUI.Settings.SettingsCanvas.ChildrensPrivacyPolicy
@@ -7284,7 +7284,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b2ce657adf054814f8c1e528a19c7af7, type: 3}
+    m_Font: {fileID: 12800000, guid: f81c77ffec15c474c9bbdea289f25cd8, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -7337,7 +7337,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 79}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1431576758, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: f69021e15b0e2dd8e503f0389512a0e2, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   GenericContentKey:
@@ -7361,7 +7361,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: b842670936246074aaaeb6cadd4dc771, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 9fe1af457134884409deee0104197233, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -7377,7 +7377,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 80}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 885090596, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 55dca9551e6760ef7fd5c5970ba6e4ae, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!114 &416
@@ -7405,14 +7405,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 611fd5fcd96cdc847b2da36c6d3d6955, type: 2}
+  m_Material: {fileID: 2100000, guid: d1c4420e7c4caf34480092afbe564825, type: 2}
   m_Color: {r: 0.08235294, g: 0.58431375, b: 0.9411765, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: dda557191f6844142928f83591112577, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 691b70c40f7e1e3499e947a51f6b91c6, type: 2}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -7428,11 +7428,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 81}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1536675443, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 88faf611b241da021540217268017ad7, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  PromptPrefab: {fileID: 114395511022077946, guid: 9ef12c7239ed4744c9c7bc9d5d2ab885, type: 2}
-  ErrorPrefab: {fileID: 114898590787482687, guid: 698477a1c3489874b985137dcdd5e453, type: 2}
+  PromptPrefab: {fileID: 114379037150706658, guid: 7e52ab6cce51ba3459061550831087fa, type: 2}
+  ErrorPrefab: {fileID: 114950212920772533, guid: d5b82b0cb1c482942b8c2689cab61bc5, type: 2}
 --- !u!114 &419
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7441,7 +7441,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 81}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -661052037, guid: fd71f514debf5cd7b6d48e6645da7934, type: 3}
+  m_Script: {fileID: 11500000, guid: 1004c48851c57d275996747405aea604, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   m_UiScaleMode: 1
@@ -7493,7 +7493,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: dfb613636e59dc24d921e4b9cfa0e288, type: 3}
+    m_Font: {fileID: 12800000, guid: 39968da7af9529742aa9966fda996abc, type: 3}
     m_FontSize: 16
     m_FontStyle: 0
     m_BestFit: 0
@@ -7514,7 +7514,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 83}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 599512971, guid: 9d059061bc17155b97885ddc1d2d9648, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ffb93311ce390d1cf3245d49bc926ef, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   token: GlobalUI.Settings.SettingsCanvas.PrivacyPolicy
@@ -7542,7 +7542,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b2ce657adf054814f8c1e528a19c7af7, type: 3}
+    m_Font: {fileID: 12800000, guid: f81c77ffec15c474c9bbdea289f25cd8, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -7578,14 +7578,14 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 0.7686275, g: 0.90196085, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: c5d5f827883d7644a857fab62f69e1fe, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 9546d5e7005130c4c8074f586a42353d, type: 2}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7667,7 +7667,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name:
   m_EditorClassIdentifier:
-  m_Material: {fileID: 2100000, guid: 7ab347e41f78c3649ac80b174484c612, type: 2}
+  m_Material: {fileID: 2100000, guid: 4cae887142e712d4095451c3df08e7ca, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
@@ -7701,7 +7701,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 0b990a8e56ccc5b48ab305c18dec3814, type: 3}
+    m_Font: {fileID: 12800000, guid: eebf5fefd8f3b7b48b47fdf6f427fc99, type: 3}
     m_FontSize: 24
     m_FontStyle: 0
     m_BestFit: 0

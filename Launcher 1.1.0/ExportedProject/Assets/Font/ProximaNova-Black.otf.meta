@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: b24a068a142abc14aa15595f148ab3b2
-timeCreated: 1715155701
+guid: 6909642ebe11b9c49820eead88015014
+timeCreated: 1720762686
 licenseType: Free
 TrueTypeFontImporter:
   serializedVersion: 4
@@ -14,12 +14,12 @@ TrueTypeFontImporter:
   fontNames:
   - Proxima Nova
   fallbackFontReferences:
-  - {fileID: 12800000, guid: acadd7efae4ff104d8bd284f99477ef4, type: 3}
-  - {fileID: 12800000, guid: 9d62fa688ac82ac498087c7e82d88c5e, type: 3}
-  - {fileID: 12800000, guid: 0a84f27a84b83d54880a0b0f589e1b60, type: 3}
-  - {fileID: 12800000, guid: 422763bdde9294748825a43df4aa5686, type: 3}
-  - {fileID: 12800000, guid: 476eafc17dca3e645af69751f84d1121, type: 3}
-  - {fileID: 12800000, guid: 90031c0ea1b488542909362b8b7fd452, type: 3}
+  - {fileID: 12800000, guid: f8eb2833a49f6e94fb86f95ad1b976b2, type: 3}
+  - {fileID: 12800000, guid: 0cf695242088eec43950c88fc641b6aa, type: 3}
+  - {fileID: 12800000, guid: 490ce0b7eae314c49b678c4474ed2cbf, type: 3}
+  - {fileID: 12800000, guid: 96baefbaa4fe96741bbdd6386a8bbe39, type: 3}
+  - {fileID: 12800000, guid: e3fd268aa4ab5144c9706a19a609f968, type: 3}
+  - {fileID: 12800000, guid: 3f4cc9c58d6dd234dba0f37827ccd579, type: 3}
   customCharacters:
   fontRenderingMode: 0
   output:

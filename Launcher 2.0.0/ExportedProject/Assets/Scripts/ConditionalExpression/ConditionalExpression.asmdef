@@ -1,0 +1,7 @@
+{
+  "name": "ConditionalExpression",
+  "references": [
+    "PlayMaker"
+  ],
+  "allowUnsafeCode": true
+}

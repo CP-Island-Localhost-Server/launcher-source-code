@@ -21,7 +21,7 @@ Sprite:
   m_AtlasName:
   m_PackingTag:
   m_RD:
-    texture: {fileID: 2800000, guid: 64a81d5841128d54c87d2bb8a66d39d2, type: 3}
+    texture: {fileID: 2800000, guid: 5580b5000307023488311c4d70899dba, type: 3}
     alphaTexture: {fileID: 0}
     m_SubMeshes:
     - serializedVersion: 2

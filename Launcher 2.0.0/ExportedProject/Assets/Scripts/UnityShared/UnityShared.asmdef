@@ -1,0 +1,12 @@
+{
+  "name": "UnityShared",
+  "references": [
+    "PlayMaker",
+    "Foundation",
+    "LitJson",
+    "BouncyCastle.Crypto",
+    "FoundationUnity",
+    "JsonFx.Json"
+  ],
+  "allowUnsafeCode": true
+}
